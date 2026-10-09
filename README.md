@@ -12,6 +12,7 @@ https://cdn.jsdelivr.net/gh/BrunoFreitas-V4/newsafes-lp-assets@<tag>/<pasta>/<ar
 | Pasta | LP |
 |---|---|
 | `v1-cofres-e-portas/` | lp.newsafes.com.br/v1-cofres-e-portas |
+| `v1-lp-antiga/` | LP V1 antiga (links fixados no SHA do commit, gerados por `greatpages/gerar-greatpages.py`) |
 
 Para trocar uma imagem: suba o novo arquivo, crie uma tag nova e atualize os
 links da LP para essa tag.
